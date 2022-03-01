@@ -7,11 +7,41 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		D01FD55327CDC6DB00FFDAED /* physicsia.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = physicsia.png; sourceTree = "<group>"; };
+		D01FD55427CDC7EE00FFDAED /* mathsol.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mathsol.png; sourceTree = "<group>"; };
+		D01FD55527CDC85300FFDAED /* mathquestion.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mathquestion.png; sourceTree = "<group>"; };
+		D0CAF2C227C72FEA00F8BF52 /* cl.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = cl.md; sourceTree = "<group>"; };
+		D0CAF2C427C730DB00F8BF52 /* crit.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = crit.md; sourceTree = "<group>"; };
+		D0CAF2C527C730EF00F8BF52 /* cret.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = cret.md; sourceTree = "<group>"; };
+		D0CAF2C627C730FB00F8BF52 /* pd.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = pd.md; sourceTree = "<group>"; };
+		D0CAF2C827C734F100F8BF52 /* circuitea.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = circuitea.png; sourceTree = "<group>"; };
 		D0F2271D272285860048D41C /* mkdocs.yml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = mkdocs.yml; sourceTree = "<group>"; };
 		D0F2271F272285860048D41C /* index.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = index.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
+		D0CAF2C127C72FCF00F8BF52 /* impacts */ = {
+			isa = PBXGroup;
+			children = (
+				D0CAF2C227C72FEA00F8BF52 /* cl.md */,
+				D0CAF2C427C730DB00F8BF52 /* crit.md */,
+				D0CAF2C527C730EF00F8BF52 /* cret.md */,
+				D0CAF2C627C730FB00F8BF52 /* pd.md */,
+			);
+			path = impacts;
+			sourceTree = "<group>";
+		};
+		D0CAF2C727C7323B00F8BF52 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				D0CAF2C827C734F100F8BF52 /* circuitea.png */,
+				D01FD55327CDC6DB00FFDAED /* physicsia.png */,
+				D01FD55527CDC85300FFDAED /* mathquestion.png */,
+				D01FD55427CDC7EE00FFDAED /* mathsol.png */,
+			);
+			path = images;
+			sourceTree = "<group>";
+		};
 		D0F227122722854E0048D41C = {
 			isa = PBXGroup;
 			children = (
@@ -24,6 +54,8 @@
 			isa = PBXGroup;
 			children = (
 				D0F2271F272285860048D41C /* index.md */,
+				D0CAF2C727C7323B00F8BF52 /* images */,
+				D0CAF2C127C72FCF00F8BF52 /* impacts */,
 			);
 			path = docs;
 			sourceTree = "<group>";

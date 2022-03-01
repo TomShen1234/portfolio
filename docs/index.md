@@ -2,10 +2,12 @@
 
 A student in BCIS Class of 2022.
 
-## Projects
+## Learning Impacts
 
-#### WALTEROMTYA Technology
+[Connected Learner](impacts/cl.md)
 
-#### Other projects
+[Critical Thinker](impacts/crit.md)
 
-## School Contents
+[Creative Thinker](impacts/cret.md)
+
+[Purposeful Doers](impacts/pd.md)

@@ -1,3 +1,8 @@
-site_name: My Docs
+site_name: Tom's Graduation Portfolio
 nav:
     - Home: 'index.md'
+    - Learning Impacts:
+        - Connected Learner: 'impacts/cl.md'
+        - Critical Thinker: 'impacts/crit.md'
+        - Creative Thinker: 'impacts/cret.md'
+        - Purposeful Doer: 'impacts/pd.md'
