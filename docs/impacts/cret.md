@@ -1,6 +1,6 @@
 # Creative Thinker
 
-## Math IA
+## Exploration in Mathematics
 
 ![Math IA Diagram](../images/mathiadiag.png)
 

@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		D0006D0527D5B04D003279B6 /* weka.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = weka.png; sourceTree = "<group>"; };
+		D0006D0627D5B1C7003279B6 /* fpcode.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fpcode.png; sourceTree = "<group>"; };
 		D01FD55327CDC6DB00FFDAED /* physicsia.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = physicsia.png; sourceTree = "<group>"; };
 		D01FD55427CDC7EE00FFDAED /* mathsol.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mathsol.png; sourceTree = "<group>"; };
 		D01FD55527CDC85300FFDAED /* mathquestion.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mathquestion.png; sourceTree = "<group>"; };
@@ -36,6 +38,8 @@
 		D0CAF2C727C7323B00F8BF52 /* images */ = {
 			isa = PBXGroup;
 			children = (
+				D0006D0627D5B1C7003279B6 /* fpcode.png */,
+				D0006D0527D5B04D003279B6 /* weka.png */,
 				D0CAF2C827C734F100F8BF52 /* circuitea.png */,
 				D01FD55327CDC6DB00FFDAED /* physicsia.png */,
 				D01FD55527CDC85300FFDAED /* mathquestion.png */,

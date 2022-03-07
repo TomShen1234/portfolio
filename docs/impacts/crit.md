@@ -1,6 +1,6 @@
 # Critical Thinker
 
-## Physics IA
+## Transformer Experiment
 
 ![Physics IA](../images/physicsia.png)
 
