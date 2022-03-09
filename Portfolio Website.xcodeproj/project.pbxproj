@@ -12,6 +12,7 @@
 		D01FD55327CDC6DB00FFDAED /* physicsia.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = physicsia.png; sourceTree = "<group>"; };
 		D01FD55427CDC7EE00FFDAED /* mathsol.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mathsol.png; sourceTree = "<group>"; };
 		D01FD55527CDC85300FFDAED /* mathquestion.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mathquestion.png; sourceTree = "<group>"; };
+		D020152027D8E4040082536E /* spfpanel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = spfpanel.png; sourceTree = "<group>"; };
 		D0B9D93B27D06C9A000045A5 /* mathiadiag.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mathiadiag.png; sourceTree = "<group>"; };
 		D0B9D93C27D06EC3000045A5 /* sbadvert.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sbadvert.png; sourceTree = "<group>"; };
 		D0CAF2C227C72FEA00F8BF52 /* cl.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = cl.md; sourceTree = "<group>"; };
@@ -46,6 +47,7 @@
 				D01FD55427CDC7EE00FFDAED /* mathsol.png */,
 				D0B9D93B27D06C9A000045A5 /* mathiadiag.png */,
 				D0B9D93C27D06EC3000045A5 /* sbadvert.png */,
+				D020152027D8E4040082536E /* spfpanel.png */,
 			);
 			path = images;
 			sourceTree = "<group>";
