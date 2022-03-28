@@ -4,7 +4,7 @@
 
 ![Circuit EA Picture](../images/circuitea.png)
 
-Circuit EA is an EA initiated by 2 of my friends and I. It is one of my collaborative project between the small team of mine. In this EA, our members will be creating cool technology-related products. Over the 5 years of this EA, we have created products such as drones, holographic clocks, and even a 3D printer. The photo above shows the creation process of the 3D printer. Over the 5 years, we have progressed our EA from small projects where we work on simple circuit to large scale, whole-semester projects such as the 3D printer or the drone.
+Circuit EA is an EA initiated by 2 of my friends and I. It is one of my collaborative project between the small team of mine. In this EA, our members will be creating cool technology-related products. Over the 5 years of this EA, we have created products such as drones, holographic clocks, and even a 3D printer. The photo above shows the creation process of the 3D printer. During each project, we have discussions where we split our members into different jobs, and we support each other if anyone encountered any unexpected problems, which is quite common when it comes to projects related to technology. Over the 5 years, we have progressed our EA from small projects where we work on simple circuit to large scale, whole-semester projects such as the 3D printer or the drone.
 
 ## Shaping our Future Panel
 
