@@ -14,6 +14,14 @@
 		D01FD55527CDC85300FFDAED /* mathquestion.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mathquestion.png; sourceTree = "<group>"; };
 		D020152027D8E4040082536E /* spfpanel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = spfpanel.png; sourceTree = "<group>"; };
 		D0828EF327DB0F9200BA6318 /* solarpanel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = solarpanel.png; sourceTree = "<group>"; };
+		D0867F8E2807A64B00872ED9 /* defense.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = defense.md; sourceTree = "<group>"; };
+		D0867F902807A78600872ED9 /* lifecycle1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lifecycle1.png; sourceTree = "<group>"; };
+		D0867F912807A7C500872ED9 /* lifecycle2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lifecycle2.png; sourceTree = "<group>"; };
+		D0867F922807AA4B00872ED9 /* solarpanel1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = solarpanel1.jpeg; sourceTree = "<group>"; };
+		D0867F932807AA7A00872ED9 /* solarpanel2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = solarpanel2.jpeg; sourceTree = "<group>"; };
+		D0867F942807AABB00872ED9 /* solarpanelsm.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = solarpanelsm.png; sourceTree = "<group>"; };
+		D0867F952807AB1900872ED9 /* solarpanellg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = solarpanellg.png; sourceTree = "<group>"; };
+		D0867F962807ACBF00872ED9 /* physicssim.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = physicssim.png; sourceTree = "<group>"; };
 		D0B9D93B27D06C9A000045A5 /* mathiadiag.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mathiadiag.png; sourceTree = "<group>"; };
 		D0B9D93C27D06EC3000045A5 /* sbadvert.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sbadvert.png; sourceTree = "<group>"; };
 		D0CAF2C227C72FEA00F8BF52 /* cl.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = cl.md; sourceTree = "<group>"; };
@@ -26,6 +34,20 @@
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
+		D0867F8F2807A77800872ED9 /* defenseimages */ = {
+			isa = PBXGroup;
+			children = (
+				D0867F902807A78600872ED9 /* lifecycle1.png */,
+				D0867F912807A7C500872ED9 /* lifecycle2.png */,
+				D0867F942807AABB00872ED9 /* solarpanelsm.png */,
+				D0867F922807AA4B00872ED9 /* solarpanel1.jpeg */,
+				D0867F932807AA7A00872ED9 /* solarpanel2.jpeg */,
+				D0867F952807AB1900872ED9 /* solarpanellg.png */,
+				D0867F962807ACBF00872ED9 /* physicssim.png */,
+			);
+			path = defenseimages;
+			sourceTree = "<group>";
+		};
 		D0CAF2C127C72FCF00F8BF52 /* impacts */ = {
 			isa = PBXGroup;
 			children = (
@@ -66,6 +88,8 @@
 			isa = PBXGroup;
 			children = (
 				D0F2271F272285860048D41C /* index.md */,
+				D0867F8E2807A64B00872ED9 /* defense.md */,
+				D0867F8F2807A77800872ED9 /* defenseimages */,
 				D0CAF2C727C7323B00F8BF52 /* images */,
 				D0CAF2C127C72FCF00F8BF52 /* impacts */,
 			);
@@ -81,7 +105,7 @@
 			buildConfigurationList = D0F2271A2722854E0048D41C /* Build configuration list for PBXLegacyTarget "Serve" */;
 			buildPhases = (
 			);
-			buildToolPath = /usr/bin/mkdocs;
+			buildToolPath = /opt/homebrew/bin/mkdocs;
 			buildWorkingDirectory = "";
 			dependencies = (
 			);
