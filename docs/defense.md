@@ -24,6 +24,12 @@
 
 ![PhysicsSim](defenseimages/physicssim.png)
 
-## Transformer Experiment
+---
 
-![Transformer](images/physicsia.png)
+## Once a BCISer, Always a BCISer (Alumni Portal)
+
+![Alumni Portal](defenseimages/alumni-portal.png)
+
+## Lab Work - Quantum Computing
+
+![Quantum Lab](defenseimages/qc-lab.png)

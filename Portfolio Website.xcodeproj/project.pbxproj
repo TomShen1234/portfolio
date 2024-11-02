@@ -9,6 +9,8 @@
 /* Begin PBXFileReference section */
 		D0006D0527D5B04D003279B6 /* weka.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = weka.png; sourceTree = "<group>"; };
 		D0006D0627D5B1C7003279B6 /* fpcode.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fpcode.png; sourceTree = "<group>"; };
+		D00BDAD12CD5CA5200BF842B /* alumni-portal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "alumni-portal.png"; sourceTree = "<group>"; };
+		D00BDAD22CD5CA8500BF842B /* qc-lab.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "qc-lab.png"; sourceTree = "<group>"; };
 		D01FD55327CDC6DB00FFDAED /* physicsia.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = physicsia.png; sourceTree = "<group>"; };
 		D01FD55427CDC7EE00FFDAED /* mathsol.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mathsol.png; sourceTree = "<group>"; };
 		D01FD55527CDC85300FFDAED /* mathquestion.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mathquestion.png; sourceTree = "<group>"; };
@@ -37,6 +39,8 @@
 		D0867F8F2807A77800872ED9 /* defenseimages */ = {
 			isa = PBXGroup;
 			children = (
+				D00BDAD12CD5CA5200BF842B /* alumni-portal.png */,
+				D00BDAD22CD5CA8500BF842B /* qc-lab.png */,
 				D0867F902807A78600872ED9 /* lifecycle1.png */,
 				D0867F912807A7C500872ED9 /* lifecycle2.png */,
 				D0867F942807AABB00872ED9 /* solarpanelsm.png */,
